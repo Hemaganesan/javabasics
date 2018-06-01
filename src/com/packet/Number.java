@@ -1,7 +1,8 @@
-package com.packet;
 
-public class Array {
-	
+
+   package com.packet;
+ 
+	 public class Number {
 	public static void main(String[] args)
 	{
 		int N=78945;
@@ -23,5 +24,8 @@ public class Array {
 	
 }
 	}
+
+
+
 
 
