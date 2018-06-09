@@ -23,4 +23,10 @@ public class Car {
 		
 	}
 
+
+	public void brake() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
