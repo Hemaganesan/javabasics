@@ -1,5 +1,9 @@
 package com.training.examples;
 
-public class Car {
 
-}
+	public class AudiCar extends Car {
+			public void brake() {
+				System.out.println("Audi car brake ");
+			}
+		}
+
