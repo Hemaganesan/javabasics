@@ -4,6 +4,4 @@ public interface Travel {
 
 	void getspeed();
 
-	
-
 }
